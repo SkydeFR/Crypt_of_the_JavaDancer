@@ -13,7 +13,8 @@ Réalisé en 2018 dans le cadre du module M2201 "Graphes et langages" - S2 DUT I
 1. [Télécharger l'archive](http://skydefr.com/projets/crypt_of_the_javadancer/Crypt_of_the_JavaDancer.zip)
 2. Extraire les fichiers dans un dossier
 3. Vérifier que le fichier __level1.txt__ se situe dans le même dossier que le fichier __Crypt of the JavaDancer.jar__
-4. Depuis l'invite de commandes, taper : ```bash
+4. Depuis l'invite de commandes, taper : 
+```bash
 java -jar "Crypt of the JavaDancer.jar"
 ```
 
