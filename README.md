@@ -21,16 +21,16 @@ java -jar "Crypt of the JavaDancer.jar"
 ## Captures d'écran
 
 ### Pelle avancée
-![Pelle](https://raw.githubusercontent.com/SkydeFR/Crypt_of_the_JavaDancer/master/screenshots/pelle.png)
+![Pelle](https://raw.githubusercontent.com/julien-pintodafonseca/Crypt_of_the_JavaDancer/master/screenshots/pelle.png)
 
 ### Diamant
-![Diamant](https://raw.githubusercontent.com/SkydeFR/Crypt_of_the_JavaDancer/master/screenshots/diamant.png)
+![Diamant](https://raw.githubusercontent.com/julien-pintodafonseca/Crypt_of_the_JavaDancer/master/screenshots/diamant.png)
 
 ### Utilisation de la pelle avancée
-![Action](https://raw.githubusercontent.com/SkydeFR/Crypt_of_the_JavaDancer/master/screenshots/action.png)
+![Action](https://raw.githubusercontent.com/julien-pintodafonseca/Crypt_of_the_JavaDancer/master/screenshots/action.png)
 
 ### Génération du plus court chemin vers le prochain diamant
-![chemin](https://raw.githubusercontent.com/SkydeFR/Crypt_of_the_JavaDancer/master/screenshots/chemin.png)
+![chemin](https://raw.githubusercontent.com/julien-pintodafonseca/Crypt_of_the_JavaDancer/master/screenshots/chemin.png)
 
 ### Sortie : fin de la partie
-![sortie](https://raw.githubusercontent.com/SkydeFR/Crypt_of_the_JavaDancer/master/screenshots/sortie.png)
+![sortie](https://raw.githubusercontent.com/julien-pintodafonseca/Crypt_of_the_JavaDancer/master/screenshots/sortie.png)
